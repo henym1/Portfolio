@@ -80,7 +80,7 @@ main p{
     position: relative;
     left: 25%;
     background-color: aquamarine;
-    justify-content: space-evenly;
+    justify-content: center;
     display: flex;
     padding: 10px 20px;
     width: 600px;
@@ -93,7 +93,7 @@ main p{
     height: 100px;
     align-items: center;
     background-color: #4d4533;
-    justify-content: space-evenly;
+    justify-content: center;
     display: flex;
     padding: 10px 20px;
 }
